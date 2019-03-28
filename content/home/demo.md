@@ -49,7 +49,7 @@ subtitle = ""
 
 En este espacio (en construcción) pondremos a disposición información y materiales que acompañan el curso Estadística Multivariada - Sociología Universidad de Chile.
 
-Aquí un link de prueba: []("/static/html/JuanCarlosCastillo.html")
+Aquí un link de prueba: [](../static/html/JuanCarlosCastillo.html)
 
 
 {{% alert note %}}
